@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0fadf4c13fb6ece418c2735cdd03616a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MN KIMCHI NEW
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3b98c8cdf78411445a6e9d37fbd859d0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
